@@ -3,13 +3,13 @@
 ## Complete Learning Journey
 A structured path from .NET fundamentals to enterprise expert level
 
-## 🗺 Learning Path
+##  Learning Path
 
-### 🏗 CORE SKILLS REPOSITORIES
+### CORE SKILLS REPOSITORIES
 1. *DotNET Mastery 28 Advanced Csharp* - Includes essential and advanced C# concepts with practical examples. Updated regularly.
 2. *More repositories will be added as progress continues...*
 
-## 🎯 Career Goals
+##  Career Goals
 - *Target*: Expert .NET Developer
 - *Portfolio*: Enterprise Projects
 
